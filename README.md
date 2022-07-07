@@ -7,6 +7,7 @@ Clone은 GitHub의 repo를 가져와 작업할 준비를 할 수 있도록 하�
 원하는 디렉토리에서 다음을 실행하여 이 repo를 자신의 working directory에 local repo로 복제해 보세요:
 ```
 git clone [link of this repository]
+cd [repository directory]
 ```
 
 ## Diff, Status
